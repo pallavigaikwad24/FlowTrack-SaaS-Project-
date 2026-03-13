@@ -1,0 +1,11 @@
+
+/src/generated/prisma
+
+/.env
+
+/package-lock.json
+
+/public/images
+
+/node_modules
+
